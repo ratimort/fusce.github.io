@@ -29,7 +29,7 @@ h3 {
 
 header {
   height: 750px;
-  background: url("../img/meghan-holmes-779221-unsplash.jpg");
+  background: url("../img/meghan-holmes-779221-unsplash.webp");
   background-position: center;
   background-size: cover; }
   header .row {
@@ -292,15 +292,15 @@ header {
       font-weight: 300;
       font-size: 18px; }
   .about .img-1 {
-    background: url("../img/victor-freitas-604835-unsplash.jpg");
+    background: url("../img/victor-freitas-604835-unsplash.webp");
     background-position: center;
     background-size: cover; }
   .about .img-2 {
-    background: url("../img/alora-griffiths-750409-unsplash.jpg");
+    background: url("../img/alora-griffiths-750409-unsplash.webp");
     background-position: center;
     background-size: cover; }
   .about .img-3 {
-    background: url("../img/form-426164-unsplash.jpg");
+    background: url("../img/form-426164-unsplash.webp");
     background-position: center;
     background-size: cover; }
 
@@ -350,7 +350,7 @@ header {
         .classes .container .img .button-2:hover {
           background-color: rgba(255, 255, 255, 0.2); }
     .classes .container .img-1 {
-      background: url("../img/bruce-mars-558730-unsplash.jpg");
+      background: url("../img/bruce-mars-558730-unsplash.webp");
       background-position: center;
       background-size: cover;
       -o-transition: background-size .2s ease-in;
@@ -362,7 +362,7 @@ header {
         padding: 300px 20px 0;
         background-color: rgba(52, 105, 154, 0.6); }
     .classes .container .img-2 {
-      background: url("../img/jesper-aggergaard-539127-unsplash.jpg");
+      background: url("../img/jesper-aggergaard-539127-unsplash.webp");
       background-position: center;
       background-size: cover; }
       .classes .container .img-2 .button {
@@ -371,7 +371,7 @@ header {
         padding: 300px 20px 0;
         background-color: rgba(211, 72, 72, 0.6); }
     .classes .container .img-3 {
-      background: url("../img/hipcravo-1277616-unsplash.jpg");
+      background: url("../img/hipcravo-1277616-unsplash.webp");
       background-position: center;
       background-size: cover; }
       .classes .container .img-3 .button {
@@ -382,7 +382,7 @@ header {
 
 .quote {
   height: 450px;
-  background: url("../img/bruce-mars-554384-unsplash.jpg");
+  background: url("../img/bruce-mars-554384-unsplash.webp");
   background-position: center;
   background-size: cover; }
   .quote .row {
